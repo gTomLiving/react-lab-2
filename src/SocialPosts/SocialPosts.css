@@ -1,0 +1,37 @@
+table {
+    width: 100%;
+}
+
+div.SocialPosts {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 10%;
+    background-color: #CDF0EA;
+}
+section.MainBox {
+    background-color: #F9F9F9;
+    height: 40%;
+    width: 70%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+div.Top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+button.ThoughtBtn {
+    width: 100%;
+}
+.Modal {
+    height: 500px;
+    width: 500px;
+}
+h1.Heading {
+    font-family: 'Great Vibes', cursive;
+    font-size: 32px;
+}

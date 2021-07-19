@@ -1,0 +1,30 @@
+tr {
+    width: 100%;
+}
+tbody.PostInList {
+    width: 100%;
+
+}
+tr.PostLine {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Pacifico', cursive;
+}
+div.TableSection {
+    border-bottom: 1px solid black;
+}
+.ThumbDown {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+th h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+h3 { 
+    margin: 8px 0px 0px 0px;
+}
+span.Votes {
+    margin-left: 8px;
+    margin-right: 8px;
+}
